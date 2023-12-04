@@ -25,10 +25,6 @@
   <h2>do it! 👍</h2>
   <div>
     <div>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-    </div>
-    <div>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
       <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white">
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -37,8 +33,14 @@
     </div>
     <div>
       <img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=Node.js&logoColor=white">
-      <img src="https://img.shields.io/badge/AndriodStudio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+      <img src="https://img.shields.io/badge/Andriod-3DDC84?style=flat-square&logo=android&logoColor=white">
+      <img src="https://img.shields.io/badge/IOS-000000?style=flat-square&logo=IOS&logoColor=white">
+    </div>
+    <div>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+      <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
     </div>
   </div>
 </div>
