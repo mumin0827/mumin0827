@@ -6,7 +6,9 @@
   <h4>My vision is to positively change human lives and create sustainable value through innovative and continuous software development.</h4>
   <ul>
     <li>📂 all of my projects at here!</li>
+    <br>
     <li>🗄️ I'm focusing on backend development</li>
+    <br>
     <li>❤️ SANABI(🎮) <- Try it for sure!!!</li>
   </ul>
 
