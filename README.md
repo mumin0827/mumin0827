@@ -2,10 +2,6 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=MinGyu's%20GitHub%20😽%20&fontSize=40&anon=fadeIn&fontAlignY=40&color=gradient&fontAlign=30)
   
-  <h3>"중요한건 어떻게 끝으로 가는가 다"</h3>
-  
-  <hr></hr>
-  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmumin0827&count_bg=%238C8C8C&title_bg=%23313131&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mumin0827&github-readme-stats&show_icons=true&theme=moltack)
@@ -43,4 +39,6 @@
       <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
     </div>
   </div>
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&anon=fadeIn&color=gradient)
 </div>
