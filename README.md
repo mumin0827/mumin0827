@@ -9,13 +9,19 @@
 
   <h2>contact 📱</h2>
   <div>
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-    <img src="https://img.shields.io/badge/Instagrame-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+    <a href="mailto:kalsrb0827@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+    </a>
+    <a href="">
+      <img src="https://img.shields.io/badge/Instagrame-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+    </a>
   </div>
 
   <h2>dev's community 📃</h2>
   <div>
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+    <a href="https://discord.gg/CZb8tKC3Mw">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+    </a>
   </div>
 
   <h2>do it! 👍</h2>
