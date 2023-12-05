@@ -37,18 +37,13 @@
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScirpt-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-    </div>
-    <div>
       <img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=Node.js&logoColor=white">
       <img src="https://img.shields.io/badge/Andriod-3DDC84?style=flat-square&logo=android&logoColor=white">
       <img src="https://img.shields.io/badge/IOS-000000?style=flat-square&logo=IOS&logoColor=white">
-    </div>
-    <div>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-      <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
-    </div>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-squaree&logo=Kotlin&logoColor=white">
+      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
   </div>
 
   ![header](https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&anon=fadeIn&color=gradient)
