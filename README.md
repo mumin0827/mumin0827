@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=MinGyu's%20GitHub%20😽%20&fontSize=40&anon=fadeIn&fontAlignY=40&color=gradient&fontAlign=30)
 
   <h2>Hi there! Welcome to my GitHub!</h2>
-  <h3>My vision is to positively change human lives and create sustainable value through innovative and continuous software development.</h3>
+  <h4>My vision is to positively change human lives and create sustainable value through innovative and continuous software development.</h4>
 
   <h2>contact 📱</h2>
   <div>
