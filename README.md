@@ -1,11 +1,16 @@
 <div align="left" dir="auto">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=MinGyu's%20GitHub%20😽%20&fontSize=40&anon=fadeIn&fontAlignY=40&color=gradient&fontAlign=30)
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=MinGyu's%20GitHub%20&fontSize=40&anon=fadeIn&fontAlignY=40&color=gradient&fontAlign=30)
 
-  <h2>Hi there! Welcome to my GitHub!</h2>
+  <h2>👋 Hi there! Welcome to my GitHub!</h2>
   <h4>My vision is to positively change human lives and create sustainable value through innovative and continuous software development.</h4>
+  <ul>
+    <li>📂 all of my projects at here!</li>
+    <li>🗄️ I'm focusing on backend development</li>
+    <li>❤️ SANABI(🎮) <- Try it for sure!!!</li>
+  </ul>
 
-  <h2>contact 📱</h2>
+  <h2>📱 contact</h2>
   <div>
     <a href="mailto:kalsrb0827@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
@@ -15,14 +20,14 @@
     </a>
   </div>
 
-  <h2>dev's community 📃</h2>
+  <h2>📃 dev's community</h2>
   <div>
     <a href="https://discord.gg/CZb8tKC3Mw">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
     </a>
   </div>
 
-  <h2>do it! 👍</h2>
+  <h2>👍 do it! </h2>
   <div>
     <div>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
