@@ -22,10 +22,13 @@
     </a>
   </div>
 
-  <h2>📃 dev's community</h2>
+  <h2>📃 dev's community & log</h2>
   <div>
     <a href="https://discord.gg/CZb8tKC3Mw">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+    </a>
+    <a href="">
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
     </a>
   </div>
 
@@ -42,7 +45,7 @@
       <img src="https://img.shields.io/badge/IOS-000000?style=flat-square&logo=IOS&logoColor=white">
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-squaree&logo=Kotlin&logoColor=white">
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
       <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
   </div>
 
