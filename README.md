@@ -1,7 +1,5 @@
 <div align="left" dir="auto">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=165&text=MinGyu's%20GitHub%20&fontSize=30&anon=fadeIn&fontAlignY=37&color=gradient&fontAlign=25)
-
   <h2>👋 Hi there! Welcome to my GitHub!</h2>
   <h4>My vision is to positively change human lives and create sustainable value through innovative and continuous software development.</h4>
   <ul>
