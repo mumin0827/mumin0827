@@ -2,13 +2,8 @@
 
   <h2>👋 Hi there! Welcome to my GitHub!</h2>
   <h4>My vision is to positively change human lives and create sustainable value through innovative and continuous software development.</h4>
-  <ul>
-    <li>📂 all of my projects at here!</li>
-    <br>
-    <li>🗄️ I'm focusing on backend development</li>
-    <br>
-    <li>❤️ SANABI(🎮) <- Try it for sure!!!</li>
-  </ul>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mumin0827)](https://solved.ac/mumin0827)
 
   <h2>📱 contact</h2>
   <div>
