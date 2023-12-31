@@ -4,6 +4,7 @@
   <h4>저의 비전은 혁신적이고 지속적인 소프트웨어 개발을 통해 인간의 삶을 긍정적으로 변화시키고 지속가능한 가치를 창출하는 것입니다.</h4>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mumin0827)](https://solved.ac/mumin0827)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=mumin0827&theme=warm)
 
   <h2>📱 contact</h2>
   <div>
