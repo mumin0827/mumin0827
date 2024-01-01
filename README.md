@@ -9,8 +9,7 @@
   
   <h2>📃 dev's community & log</h2>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mumin0827)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mumin0827&theme=graywhite)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mumin0827&theme=graywhite&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
   
   <div>
     <a href="mailto:kalsrb0827@gmail.com">
@@ -32,18 +31,16 @@
   <h2>👍 do it! </h2>
   <div>
     <div>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-      <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/JavaScirpt-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-      <img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=Node.js&logoColor=white">
-      <img src="https://img.shields.io/badge/Andriod-3DDC84?style=flat-square&logo=android&logoColor=white">
-      <img src="https://img.shields.io/badge/IOS-000000?style=flat-square&logo=IOS&logoColor=white">
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
-      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+      <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=Lua&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScirpt-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
+      <img src="https://img.shields.io/badge/Node.JS-339933?style=flat&logo=Node.js&logoColor=white">
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
+      <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">
   </div>
 
   ![header](https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&anon=fadeIn&color=gradient)
