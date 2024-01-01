@@ -6,7 +6,12 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mumin0827)](https://solved.ac/mumin0827)
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=mumin0827&theme=warm)
 
-  <h2>📱 contact</h2>
+  
+  <h2>📃 dev's community & log</h2>
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mumin0827)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mumin0827&theme=graywhite)](https://git.io/streak-stats)
+  
   <div>
     <a href="mailto:kalsrb0827@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
@@ -15,8 +20,6 @@
       <img src="https://img.shields.io/badge/Instagrame-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
   </div>
-
-  <h2>📃 dev's community & log</h2>
   <div>
     <a href="https://discord.gg/CZb8tKC3Mw">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
